@@ -20,9 +20,10 @@ A **C++ console application** that simulates the popular Polish game show "Posta
 
 ## Usage
 1. Clone the repository and navigate to the project folder
-2. Open `postaw_na_milion.vcxproj` in Visual Studio
-3. Build and run the project (F5 or Ctrl+F5)
-4. Follow the on-screen menu to start a new game or load a saved one
+2. Go into the "Source" folder
+3. Open the solution file (`postaw_na_milion.sln`) or the project file (`postaw_na_milion.vcxproj`) in Visual Studio
+4. Build and run the project (F5 or Ctrl+F5)
+5. Follow the on-screen menu to start a new game or load a saved one
 
 ## How it works
 - **Question System**: Loads questions from `questions.txt` with categories, questions, and answers
