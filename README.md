@@ -2,6 +2,9 @@
 
 A **C++ console application** that simulates the popular Polish game show "Postaw na milion".
 
+> The code, comments and the game itself are written in **Polish**.
+> This README is provided in English for accessability.
+
 ## Features
 
 - **8 rounds** of trivia questions
